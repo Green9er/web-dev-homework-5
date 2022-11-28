@@ -97,6 +97,6 @@ namespace Lab3
             {
                 MessageBox.Show("input string was not in correct format", FLname);
             }
-        }
+        }// change made here
     }
 }
